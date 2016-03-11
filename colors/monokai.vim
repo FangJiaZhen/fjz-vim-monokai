@@ -27,7 +27,8 @@ hi Pmenu ctermfg=White ctermbg=Blue guifg=White guibg=#6699FF
 " hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE guifg=Black guibg=White gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE guifg=Black guibg=#A6E22C gui=NONE
 hi IncSearch ctermfg=235 ctermbg=186 cterm=NONE guifg=#272822 guibg=#e6db74 gui=NONE
-hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
+hi Search ctermfg=235 ctermbg=186 cterm=NONE guifg=#272822 guibg=#e6db74 gui=NONE
+" hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi Folded ctermfg=242 ctermbg=235 cterm=NONE guifg=#75715e guibg=#272822 gui=NONE
 hi SignColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=NONE
